@@ -9,7 +9,7 @@
 
  <details>
  <summary> <a href="https://ffbinaries.com/downloads">FFbinaries</a> </summary>
- - Downlaod <code>ffmeg</code>, <code>ffprobe</code> and <code>ffplay</code> from the above link
+ - Downlaod <code>ffmeg</code>, <code>ffprobe</code> and <code>ffplay</code> from the above link  
  - Extract the zip files and sotre the <code>exe</code> files in the root directory for the project
 </details>
 
