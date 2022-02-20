@@ -13,9 +13,9 @@
  - Extract the zip files and sotre the <code>exe</code> files in the root directory for the project
 </details>
 
-## Running the code
-open a terminal in the root directory for the project
-***Replace video link with the link of the video you want to download***
-Run `.\Downlaoder.py downlaod-video "video link"` to downlaod a video
-Run `.\Downlaoder.py download-audio "video link"` to downlaod the audio for a video
-Run `.\Downlaoder.py downlaod-audo --keep-video "video link"` to keep the video and download the audio for a video
+## Running the code  
+open a terminal in the root directory for the project  
+***Replace video link with the link of the video you want to download***  
+Run `.\Downlaoder.py downlaod-video "video link"` to downlaod a video  
+Run `.\Downlaoder.py download-audio "video link"` to downlaod the audio for a video  
+Run `.\Downlaoder.py downlaod-audo --keep-video "video link"` to keep the video and download the audio for a video  
